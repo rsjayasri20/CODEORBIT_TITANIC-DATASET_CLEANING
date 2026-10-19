@@ -17,7 +17,8 @@ This project focuses on cleaning the Titanic dataset by handling missing values,
 * **Travel Details:** Ticket number, fare, cabin, and port of embarkation (`Embarked`).
 * **Missing Values:** Some columns, such as `Age`, `Cabin`, and `Embarked`, may contain missing values.
 * **Purpose:** To clean the dataset, handle missing values, check duplicates, correct data types, and perform basic statistical analysis.
-
+**Dataset Source:** Kaggle — Titanic Dataset
+https://www.kaggle.com/competitions/titanic/data
 
 ## 3. Technologies Used
 
